@@ -1,1 +1,1 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+This was my UG Final Year Project
